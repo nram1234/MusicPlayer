@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="Recent_activity">Recent activity</string>
+    <string name="more">MORE</string>
+    <string name="activity_All_file">All file</string>
+    <string name="activity_Contents_Of_Folder">Contents Of Folder</string>
+</resources>
